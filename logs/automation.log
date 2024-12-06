@@ -1,0 +1,64 @@
+2024-12-06 12:33:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse\Selenium\opencartv1.2\opencartV1.1\grouping.xml
+
+2024-12-06 12:33:59 INFO  TC001_AccountRegisterationTest:16 - ***** Starting TC001_AccountRegisterationTest *********
+2024-12-06 12:34:01 INFO  TC001_AccountRegisterationTest:19 - Clicked on my Account Link
+2024-12-06 12:34:02 INFO  TC001_AccountRegisterationTest:21 - Clicked on myRegister Link
+2024-12-06 12:34:02 INFO  TC001_AccountRegisterationTest:23 - Providering Customer details
+2024-12-06 12:34:04 INFO  TC001_AccountRegisterationTest:37 - Validating expected Message
+2024-12-06 12:34:05 ERROR TC001_AccountRegisterationTest:42 - Test failed
+2024-12-06 12:34:05 INFO  TC001_AccountRegisterationTest:51 - *******Finished Test TC001_AccountRegisterationTest*******
+2024-12-06 12:34:16 INFO  TC002_LoginTest:17 - ****** starting TC_002_LoginTest ******
+2024-12-06 12:34:21 INFO  TC002_LoginTest:39 - ***** TC002_LoginTest is Finishe****
+2024-12-06 12:36:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse\Selenium\opencartv1.2\opencartV1.1\dockerTest.xml
+
+2024-12-06 12:39:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse\Selenium\opencartv1.2\opencartV1.1\dockerTest.xml
+
+2024-12-06 12:39:17 INFO  TC001_AccountRegisterationTest:16 - ***** Starting TC001_AccountRegisterationTest *********
+2024-12-06 12:39:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse\Selenium\opencartv1.2\opencartV1.1\dockerTest.xml
+
+2024-12-06 12:39:58 INFO  TC001_AccountRegisterationTest:16 - ***** Starting TC001_AccountRegisterationTest *********
+2024-12-06 14:21:26 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:21:29 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:21:29 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:21:40 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:21:40 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:21:52 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:21:52 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:21:54 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:56:39 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:56:42 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:56:42 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:56:54 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:56:54 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:57:06 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 14:57:06 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 14:57:09 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:14:09 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:14:12 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:14:12 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:14:24 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:14:24 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:14:36 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:14:36 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:14:39 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:17:25 INFO  TC001_AccountRegisterationTest:16 - ***** Starting TC001_AccountRegisterationTest *********
+2024-12-06 15:17:25 INFO  TC001_AccountRegisterationTest:19 - Clicked on my Account Link
+2024-12-06 15:17:27 INFO  TC001_AccountRegisterationTest:21 - Clicked on myRegister Link
+2024-12-06 15:17:27 INFO  TC001_AccountRegisterationTest:23 - Providering Customer details
+2024-12-06 15:17:28 INFO  TC001_AccountRegisterationTest:37 - Validating expected Message
+2024-12-06 15:17:29 ERROR TC001_AccountRegisterationTest:42 - Test failed
+2024-12-06 15:17:29 INFO  TC001_AccountRegisterationTest:51 - *******Finished Test TC001_AccountRegisterationTest*******
+2024-12-06 15:17:38 INFO  TC002_LoginTest:17 - ****** starting TC_002_LoginTest ******
+2024-12-06 15:17:41 INFO  TC002_LoginTest:39 - ***** TC002_LoginTest is Finishe****
+2024-12-06 15:17:51 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:17:54 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:17:54 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:18:05 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:18:05 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:18:17 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
+2024-12-06 15:18:17 INFO  TC003_LoginDDT:23 - ******* starting TC_003_LoginDDT *******
+2024-12-06 15:18:20 INFO  TC003_LoginDDT:60 - ***** TC003_LoginDDT Finished ******
